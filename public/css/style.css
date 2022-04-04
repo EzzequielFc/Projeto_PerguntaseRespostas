@@ -1,0 +1,11 @@
+body {
+    background: lightgreen;
+}
+img {
+    width: 60px;
+    margin-left: 20px;
+}
+
+#formulario-pergunta {
+    margin-top: 5vh;
+}

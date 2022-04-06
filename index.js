@@ -4,7 +4,7 @@ const bodyParser = require('body-parser')// Responsavel por traduzir os dados en
 const connection = require('./database/database') // importando a conexão da database
 const Pergunta = require('./database/Pergunta') // importando model de perguntas do database
 const Resposta = require('./database/Resposta') // importando model de respostas
-
+ 
 //Database
 connection
     .authenticate()
